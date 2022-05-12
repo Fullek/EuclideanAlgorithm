@@ -1,4 +1,4 @@
-package demo_package;
+package com.euclidean;
 
 import java.util.Scanner;
 
