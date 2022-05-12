@@ -1,4 +1,4 @@
-package demo_package;
+package com.euclidean;
 
 public class Main {
 
